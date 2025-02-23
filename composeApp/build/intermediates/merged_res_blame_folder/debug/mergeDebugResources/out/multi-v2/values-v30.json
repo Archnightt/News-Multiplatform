@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.coding.meet.newsapp.composeApp-mergeDebugResources-64:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/harshkolarkar/.gradle/caches/8.9/transforms/7638cb95b8c02a5c35478a1c9afad0b5/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
